@@ -1,4 +1,5 @@
 # leetcode-solutions
 This repo contains solutions for some Leetcode questions i do for practice .
-check my leetcode ! 
+
+Check my Leetcode profile ! 
 https://leetcode.com/gouadriasouheyl/
