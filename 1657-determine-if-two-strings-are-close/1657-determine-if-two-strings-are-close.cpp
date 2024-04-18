@@ -4,7 +4,7 @@ public:
         int n1 = word1.size();
         int n2 = word2.size();
         if( n1 != n2 ) return 0;
-        unordered_map <char,int> mp1,mp2;
+        map <char,int> mp1,mp2;
         for(int i=0;i<n1;i++){
             mp1[word1[i]]++;
         }
