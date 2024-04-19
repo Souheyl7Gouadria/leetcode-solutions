@@ -1,16 +1,21 @@
 class Solution {
 public:
     string removeStars(string s) {
-        string resp = "";
-        for(char c : s){
-            // a solution always exist so there will not encounter * if resp is ""
+        stack <char> st;
+        for(auto c : s){
+            // we wont encounter a * if st is empty
             if(c == '*'){
-                resp.pop_back();
+                st.pop();
             }else{
-                resp+=c;
+                st.push(c);
             }
         }
+        string resp = "";
+        while(!st.empty()){
+            resp+=st.top();
+            st.pop();
+        }
+        reverse(resp.begin(),resp.end());
         return resp;
-
     }
 };
