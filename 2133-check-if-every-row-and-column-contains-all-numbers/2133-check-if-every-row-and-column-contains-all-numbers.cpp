@@ -3,8 +3,8 @@ public:
     bool checkValid(vector<vector<int>>& matrix) {
         int n = matrix.size();
         for(int i=0;i<n;i++){
-            set <int> row;
-            set <int> col;
+            unordered_set <int> row;
+            unordered_set <int> col;
             for(int j=0;j<n;j++){
                 row.insert(matrix[i][j]);
                 col.insert(matrix[j][i]);
