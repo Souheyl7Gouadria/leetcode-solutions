@@ -2,22 +2,23 @@ class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
         int n = nums.size();
-        int resp = INT_MAX ;
         vector <int> pref(n+1,0);
-        // keep the first element of pref 0 for further implementation
-        for(int i=1;i<=n;i++){
-            pref[i]= pref[i-1] + nums[i-1];
+        for(int i=0;i<n;i++){
+            pref[i+1]=pref[i]+nums[i];
         }
-        for(int i=1;i<=n;i++){
-            // here 
-            int atLeast = target + pref[i-1];
-            auto it = lower_bound(pref.begin() + i, pref.end(), atLeast);
-            if (it != pref.end()) {
-                int pos = it - pref.begin();
-                resp = min(resp, pos - i + 1);
+        int l = 1;
+        int r = 1;
+        int resp = 1e9;
+        while(r<=n){
+            int sum = pref[r]-pref[l-1];
+            if(sum>=target){
+                resp = min(resp,r-l+1);
+                l++;
+            }else{
+                r++;
             }
         }
-        if(resp == INT_MAX  ) return 0;
+        if(resp == 1e9) resp = 0;
         return resp;
     }
 };
