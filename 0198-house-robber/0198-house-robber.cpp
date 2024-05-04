@@ -1,22 +1,24 @@
 class Solution {
 public:
-    
-    int robHouse(int pos,vector<int>& nums,vector<int>& dp){
-        
-        int n = nums.size();
-        // base case
-        if(pos>=n) return 0;
-        if(dp[pos] != -1) return dp[pos];
-        return dp[pos] = nums[pos]+max(robHouse(pos+2,nums,dp),robHouse(pos+3,nums,dp));
-    }
-    
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector <int> dp(n,-1);
-        int resp = INT_MIN;
-        for(int i=0;i<n;i++){
-            resp=max(resp,robHouse(i,nums,dp));
+        if (n == 1) return nums[0];
+        if (n == 2) return max(nums[0], nums[1]);
+        
+        vector<int> dp(n + 2, 0);
+        
+        // Base case
+        dp[n] = 0;
+        
+        for (int i = n - 1; i >= 0; i--) {
+            int movetwo = dp[i + 2];
+            int movethree = INT_MIN;
+            if (i < n - 2) {
+                movethree = dp[i + 3];
+            }
+            dp[i] = nums[i] + max(movetwo, movethree);
         }
-        return resp;
+        
+        return max(dp[0],dp[1]);
     }
 };
