@@ -1,24 +1,18 @@
 class Solution {
 public:
+    
+    int steal(vector <int> & nums,vector <int> & dp, int index){
+        int n = nums.size();
+        // base case
+        if(index >= n) return 0;
+        if(dp[index] != -1) return dp[index];
+        return dp[index] = nums[index] + max(steal(nums,dp,index+2),steal(nums,dp,index+3));
+        
+    }
+    
     int rob(vector<int>& nums) {
         int n = nums.size();
-        if (n == 1) return nums[0];
-        if (n == 2) return max(nums[0], nums[1]);
-        
-        vector<int> dp(n + 2, 0);
-        
-        // Base case
-        dp[n] = 0;
-        
-        for (int i = n - 1; i >= 0; i--) {
-            int movetwo = dp[i + 2];
-            int movethree = INT_MIN;
-            if (i < n - 2) {
-                movethree = dp[i + 3];
-            }
-            dp[i] = nums[i] + max(movetwo, movethree);
-        }
-        
-        return max(dp[0],dp[1]);
+        vector <int> dp(n+1,-1);
+        return max(steal(nums,dp,0),steal(nums,dp,1));
     }
 };
