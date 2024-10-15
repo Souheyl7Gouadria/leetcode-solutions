@@ -20,4 +20,12 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
