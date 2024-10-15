@@ -11,6 +11,7 @@ https://leetcode.com/gouadriasouheyl/
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,6 +21,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
