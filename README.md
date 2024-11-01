@@ -9,6 +9,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -24,6 +25,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -31,6 +33,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0605-can-place-flowers) |
