@@ -51,6 +51,7 @@ https://leetcode.com/gouadriasouheyl/
 | ------- |
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -93,4 +94,8 @@ https://leetcode.com/gouadriasouheyl/
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
