@@ -12,7 +12,7 @@ public:
 
         int tank = 0;
         int start = 0;
-        for (int j = 0; j < n; j++) {
+        for (int j = 0; j < n-1; j++) {
             tank += gas[j] - cost[j];
             if (tank < 0) {
                 tank = 0;
