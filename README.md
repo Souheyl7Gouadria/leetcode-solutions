@@ -58,6 +58,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2580-circular-sentence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3451-string-compression-iii) |
 ## Prefix Sum
 |  |
