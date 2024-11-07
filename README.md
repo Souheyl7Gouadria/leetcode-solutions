@@ -102,6 +102,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0907-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String Matching
@@ -121,4 +122,8 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
