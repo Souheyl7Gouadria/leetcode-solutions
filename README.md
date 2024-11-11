@@ -59,6 +59,7 @@ https://leetcode.com/gouadriasouheyl/
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0443-string-compression) |
@@ -130,6 +131,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
 ## Recursion
 |  |
