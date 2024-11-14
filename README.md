@@ -159,4 +159,8 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
