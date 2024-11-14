@@ -162,5 +162,6 @@ https://leetcode.com/gouadriasouheyl/
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [1801-average-time-of-process-per-machine](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
