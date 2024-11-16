@@ -33,6 +33,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ https://leetcode.com/gouadriasouheyl/
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Counting
 |  |
 | ------- |
