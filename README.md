@@ -71,6 +71,7 @@ https://leetcode.com/gouadriasouheyl/
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
