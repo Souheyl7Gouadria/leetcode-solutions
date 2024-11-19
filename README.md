@@ -47,6 +47,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -78,6 +79,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0812-rotate-string) |
+| [1250-longest-common-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
