@@ -84,6 +84,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [2580-circular-sentence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3451-string-compression-iii) |
 ## Prefix Sum
@@ -101,6 +102,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Counting
