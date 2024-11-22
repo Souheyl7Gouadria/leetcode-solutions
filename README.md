@@ -23,6 +23,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0724-find-pivot-index](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -98,6 +99,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Hash Table
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -131,6 +133,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
