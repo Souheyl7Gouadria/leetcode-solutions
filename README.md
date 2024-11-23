@@ -28,6 +28,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1755-defuse-the-bomb](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1940-maximum-xor-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -69,6 +70,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
@@ -134,6 +136,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
