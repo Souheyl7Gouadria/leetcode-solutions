@@ -48,6 +48,7 @@ https://leetcode.com/gouadriasouheyl/
 | ------- |
 | [0045-jump-game-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0198-house-robber) |
@@ -189,6 +190,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0069-sqrtx) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -223,4 +225,8 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
