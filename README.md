@@ -38,6 +38,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -153,6 +154,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1972-rotating-the-box](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -232,6 +234,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -248,6 +251,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Backtracking
@@ -258,5 +262,10 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
