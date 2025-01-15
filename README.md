@@ -74,6 +74,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0134-gas-station](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [2089-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
+| [2509-minimize-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
@@ -187,6 +188,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
 | [1940-maximum-xor-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2509-minimize-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3394-minimum-array-end) |
