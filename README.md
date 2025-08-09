@@ -189,6 +189,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1940-maximum-xor-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -207,6 +208,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
 ## Math
 |  |
@@ -215,6 +217,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
