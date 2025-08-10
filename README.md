@@ -120,6 +120,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -130,6 +131,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -149,6 +151,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Matrix
@@ -218,6 +221,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0069-sqrtx](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
@@ -297,5 +301,6 @@ https://leetcode.com/gouadriasouheyl/
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
