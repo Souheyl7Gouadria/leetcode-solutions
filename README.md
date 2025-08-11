@@ -43,6 +43,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2529-range-product-queries-of-powers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -117,6 +118,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0724-find-pivot-index](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [2529-range-product-queries-of-powers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +199,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
