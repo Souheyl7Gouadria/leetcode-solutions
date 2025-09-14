@@ -1,20 +1,16 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        int n = nums.size();
-        unordered_map<int,int> mp;
-        for(int i=0;i<n;i++){
-            mp[nums[i]]=1;
-        }
-        int cnt;
+        if (nums.empty()) return 0;
+        unordered_set<int> unique_numbers(nums.begin(), nums.end());
         int resp = 0;
-        for(int element : nums){
-            // if lesser element doesnt exist than this would be the start of the sequence 
-            if(mp[element-1] == 0){
-                int currNum = element;
-                cnt = 1;
-                while(mp[currNum+1] != 0){
-                    currNum++;
+        for(int ele : unique_numbers){
+            // if lesser element doesnt exist than this would be the start of the sequence
+            if(unique_numbers.find(ele-1) == unique_numbers.end()){
+                int current = ele;
+                int cnt=1;
+                while(unique_numbers.find(current+1) != unique_numbers.end()){
+                    current++;
                     cnt++;
                 }
                 resp = max(resp,cnt);
