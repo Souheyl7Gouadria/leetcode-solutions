@@ -50,6 +50,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2699-count-the-number-of-fair-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [2792-neighboring-bitwise-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -132,6 +133,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2428-equal-row-and-column-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
