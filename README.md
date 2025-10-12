@@ -215,6 +215,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Recursion
@@ -317,4 +318,8 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
