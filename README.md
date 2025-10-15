@@ -26,6 +26,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0605-can-place-flowers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -219,6 +220,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0150-evaluate-reverse-polish-notation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Recursion
 |  |
@@ -255,6 +257,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
