@@ -190,6 +190,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3336-water-bottles-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3336-water-bottles-ii) |
@@ -253,6 +254,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0150-evaluate-reverse-polish-notation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3336-water-bottles-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 ## Number Theory
