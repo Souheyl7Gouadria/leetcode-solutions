@@ -62,6 +62,7 @@ https://leetcode.com/gouadriasouheyl/
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
@@ -92,6 +93,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2089-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2509-minimize-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +148,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
@@ -239,6 +242,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0739-daily-temperatures](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -278,6 +282,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0739-daily-temperatures](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Queue
 |  |
 | ------- |
