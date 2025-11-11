@@ -22,6 +22,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0238-product-of-array-except-self](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -76,6 +77,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0198-house-robber](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
@@ -116,6 +118,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0812-rotate-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
