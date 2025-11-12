@@ -56,6 +56,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2792-neighboring-bitwise-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -263,11 +264,13 @@ https://leetcode.com/gouadriasouheyl/
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-water-bottles-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Database
 |  |
 | ------- |
