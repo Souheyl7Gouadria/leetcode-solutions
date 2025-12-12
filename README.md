@@ -67,6 +67,7 @@ https://leetcode.com/gouadriasouheyl/
 | [3242-count-elements-with-maximum-frequency](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3433-count-mentions-per-user](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3531-count-covered-buildings) |
@@ -188,6 +189,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3433-count-mentions-per-user](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 ## Sliding Window
 |  |
@@ -228,6 +230,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3336-water-bottles-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +304,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Number Theory
 |  |
