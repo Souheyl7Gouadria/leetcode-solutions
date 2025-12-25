@@ -65,6 +65,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2792-neighboring-bitwise-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -111,6 +112,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2509-minimize-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
@@ -194,6 +196,7 @@ https://leetcode.com/gouadriasouheyl/
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3433-count-mentions-per-user](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3531-count-covered-buildings) |
