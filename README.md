@@ -41,6 +41,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1018-binary-prefix-divisible-by-5](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1390-four-divisors](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -307,6 +308,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0231-power-of-two](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1390-four-divisors](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
