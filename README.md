@@ -49,6 +49,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1798-max-number-of-k-sum-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1940-maximum-xor-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -110,6 +111,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2509-minimize-xor](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -227,6 +229,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
