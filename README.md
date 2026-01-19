@@ -47,6 +47,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1390-four-divisors](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -265,6 +266,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
