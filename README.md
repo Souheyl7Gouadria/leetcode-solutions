@@ -342,6 +342,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
