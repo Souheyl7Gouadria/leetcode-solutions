@@ -354,6 +354,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1661-average-time-of-process-per-machine](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1801-average-time-of-process-per-machine) |
+| [1934-confirmation-rate](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1934-confirmation-rate) |
 ## Monotonic Stack
 |  |
 | ------- |
