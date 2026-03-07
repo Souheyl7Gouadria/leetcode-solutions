@@ -347,6 +347,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0620-not-boring-movies](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1161-project-employees-i) |
+| [1211-queries-quality-and-percentage](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1338-queries-quality-and-percentage](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1390-average-selling-price) |
