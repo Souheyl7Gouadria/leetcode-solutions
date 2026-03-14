@@ -364,6 +364,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1729-find-followers-count](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1789-primary-department-for-each-employee](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
