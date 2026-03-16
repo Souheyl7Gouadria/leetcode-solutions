@@ -46,6 +46,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -183,6 +184,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -204,6 +206,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -470,4 +473,8 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
