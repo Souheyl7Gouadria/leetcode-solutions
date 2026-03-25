@@ -24,6 +24,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0238-product-of-array-except-self](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -180,6 +181,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
