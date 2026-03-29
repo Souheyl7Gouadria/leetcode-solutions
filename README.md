@@ -14,6 +14,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0045-jump-game-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -133,6 +134,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -204,6 +206,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
