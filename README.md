@@ -31,6 +31,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0518-coin-change-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -318,6 +319,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0150-evaluate-reverse-polish-notation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
+| [0636-exclusive-time-of-functions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
