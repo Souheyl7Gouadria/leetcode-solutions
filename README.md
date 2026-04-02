@@ -50,6 +50,7 @@ https://leetcode.com/gouadriasouheyl/
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1390-four-divisors) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -257,6 +258,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -318,6 +320,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0394-decode-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2211-count-collisions-on-a-road](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
