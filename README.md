@@ -153,6 +153,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0006-zigzag-conversion](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
