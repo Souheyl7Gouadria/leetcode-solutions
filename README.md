@@ -151,6 +151,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -184,6 +185,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -334,6 +336,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0067-add-binary) |
