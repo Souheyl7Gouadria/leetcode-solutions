@@ -22,6 +22,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0150-evaluate-reverse-polish-notation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -180,6 +181,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -235,6 +237,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1755-defuse-the-bomb) |
@@ -282,6 +285,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0792-binary-search) |
