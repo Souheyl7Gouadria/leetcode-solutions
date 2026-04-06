@@ -14,6 +14,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0045-jump-game-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -265,6 +266,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1972-rotating-the-box) |
@@ -292,6 +294,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0033-search-in-rotated-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
