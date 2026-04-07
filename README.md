@@ -43,6 +43,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -300,6 +301,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0300-longest-increasing-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
