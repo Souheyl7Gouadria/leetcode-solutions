@@ -48,6 +48,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -269,6 +270,7 @@ https://leetcode.com/gouadriasouheyl/
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
+| [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -469,6 +471,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
+| [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3863-power-grid-maintenance](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
