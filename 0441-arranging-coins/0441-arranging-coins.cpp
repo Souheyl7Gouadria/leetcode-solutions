@@ -1,6 +1,13 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        return (int)((-1ll + sqrtl(1+8ll*n))/2);
+        int l = 0,r = n;
+        long mid;
+        while(l<=r){
+            mid = l + (r-l)/2;
+            if(mid*(mid+1)/2 <= n) l = (long)mid+1;
+            else r = (long)mid-1;
+        }
+        return l-1;
     }
 };
