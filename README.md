@@ -27,6 +27,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0238-product-of-array-except-self](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -145,6 +146,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0088-merge-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0443-string-compression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -201,6 +203,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0012-integer-to-roman](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -226,6 +229,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
@@ -301,6 +305,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
