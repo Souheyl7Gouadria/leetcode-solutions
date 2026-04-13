@@ -23,6 +23,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0150-evaluate-reverse-polish-notation](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -273,6 +274,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -477,6 +479,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -489,6 +492,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [3863-power-grid-maintenance](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Eulerian Circuit
@@ -526,4 +530,8 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
