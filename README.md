@@ -480,6 +480,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -493,6 +494,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [3863-power-grid-maintenance](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Eulerian Circuit
@@ -534,4 +536,9 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
