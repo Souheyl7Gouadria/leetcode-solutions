@@ -1,65 +1,38 @@
 class Solution {
 public:
-
-    void bfs(int row, int col, vector<vector<int>> &vis, vector<vector<char>> &grid){
-
-        int n = grid.size();
-        int m = grid[0].size();
-        vis[row][col] = 1;
-        queue<pair<int,int>> q;
-        q.push({row,col});
-
-        while(!q.empty()){
-            int row = q.front().first;
-            int col = q.front().second;
-            q.pop();
-            int deltaRow[] = {0,-1,0,1};
-            int deltaCol[] = {1,0,-1,0};
-            int newRow,newCol;
-            for(int i = 0; i < 4; i++){
-                newRow = row+deltaRow[i];
-                newCol = col+deltaCol[i];
-                if(newRow>=0 && newRow<n && newCol>=0 && newCol<m && !vis[newRow][newCol] && grid[newRow][newCol] == '1'){
-                    vis[newRow][newCol] = 1;
-                    q.push({newRow,newCol});
-                }
-            }
-        }
-    }
-
-    void dfs(int row, int col, vector<vector<int>> &vis, vector<vector<char>> &grid){
-
-        int n = grid.size();
-        int m = grid[0].size();
-        vis[row][col] = 1;
-        
-        int deltaRow[] = {0,-1,0,1};
-        int deltaCol[] = {1,0,-1,0};
-        int newRow,newCol;
-        for(int i = 0; i < 4; i++){
-            newRow = row+deltaRow[i];
-            newCol = col+deltaCol[i];
-            if(newRow>=0 && newRow<n && newCol>=0 && newCol<m && !vis[newRow][newCol] && grid[newRow][newCol] == '1'){
-                vis[newRow][newCol] = 1;
-                dfs(newRow,newCol,vis,grid);
-            }
-        }
-    }
-    
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<int>> vis(n,vector<int>(m,0));
+        vector<vector<bool>> vis(n,vector<bool>(m,false));
         int cnt = 0;
-        for(int row=0;row<n;row++){
-            for(int col=0;col<m;col++){
-                if(!vis[row][col] && grid[row][col] == '1'){
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(grid[i][j] == '1' && !vis[i][j]){
                     cnt++;
-                    dfs(row,col,vis,grid);
+                    dfs(i,j,vis,grid);
                 }
             }
         }
         return cnt;
+    }
+
+    void dfs(int row, int col, vector<vector<bool>> &vis, vector<vector<char>> &grid){
+        int n = grid.size();
+        int m = grid[0].size();
+
+        vis[row][col] = true;
+        vector<int> deltaRow = {-1,0,1,0};
+        vector<int> deltaCol = {0,1,0,-1};
+
+        int nR,nC;
+        for(int i=0;i<4;i++){
+            nR = row+deltaRow[i];
+            nC = col+deltaCol[i];
+            if(nR>=0 && nR <n && nC >=0 && nC <m && grid[nR][nC] == '1' && !vis[nR][nC]){
+                dfs(nR,nC,vis,grid);
+            } 
+        }
+
     }
 };
