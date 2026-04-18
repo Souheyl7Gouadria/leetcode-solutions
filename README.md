@@ -50,6 +50,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -174,6 +175,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0443-string-compression](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0812-rotate-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0812-rotate-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1250-longest-common-subsequence](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -210,6 +212,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
