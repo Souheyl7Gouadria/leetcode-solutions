@@ -5,19 +5,17 @@ public:
         for(int i=0;i<order.size();i++){
             mp[order[i]] = i;
         }
-        string w1,w2;
-        for(int i=0;i<words.size()-1;i++){
-            w1 = words[i];
-            w2 = words[i+1];
+        
+        auto compare = [&](const string &a, const string &b){
 
-            for(int j=0;j<w1.size();j++){
-                if(j == w2.size()) return false;
-                if(w1[j] != w2[j]){
-                    if(mp[w1[j]] >  mp[w2[j]]) return false;
-                    break;
+            for(int i=0;i<min(a.size(),b.size());i++){
+                if(a[i] != b[i]){
+                    return mp[a[i]] < mp[b[i]];
                 }
             }
-        }
-        return true;
+            return a.size() < b.size();
+        };
+
+        return is_sorted(words.begin(),words.end(),compare);
     }
 };
