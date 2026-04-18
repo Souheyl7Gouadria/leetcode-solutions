@@ -39,6 +39,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0636-exclusive-time-of-functions](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -280,6 +281,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0074-search-a-2d-matrix](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -486,6 +488,7 @@ https://leetcode.com/gouadriasouheyl/
 | ------- |
 | [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-sliding-puzzle](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -501,6 +504,7 @@ https://leetcode.com/gouadriasouheyl/
 | ------- |
 | [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [3863-power-grid-maintenance](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
@@ -543,6 +547,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
