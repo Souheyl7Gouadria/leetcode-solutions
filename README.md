@@ -487,6 +487,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -503,6 +504,7 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -552,5 +554,10 @@ https://leetcode.com/gouadriasouheyl/
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
