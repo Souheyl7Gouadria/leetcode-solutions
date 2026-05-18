@@ -55,6 +55,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0907-koko-eating-bananas](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -244,6 +245,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0853-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [0973-k-closest-points-to-origin](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -393,6 +395,7 @@ https://leetcode.com/gouadriasouheyl/
 | [0231-power-of-two](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0900-reordered-power-of-2](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+| [0973-k-closest-points-to-origin](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1390-four-divisors](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -460,6 +463,7 @@ https://leetcode.com/gouadriasouheyl/
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0973-k-closest-points-to-origin](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -547,6 +551,7 @@ https://leetcode.com/gouadriasouheyl/
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Counting Sort
 |  |
@@ -571,8 +576,10 @@ https://leetcode.com/gouadriasouheyl/
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Souheyl7Gouadria/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
